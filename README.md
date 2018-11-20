@@ -31,12 +31,13 @@ Is a set of tools and concepts that help us to create strategies to manage proje
 
 
 
-#STARTING AT INTERMEDIATE POSITON ON PROGRAMMING
+#STARTING FROM INTERMEDIATE POSITON ON PROGRAMMING
 1. OOP WITH JAVA: https://www.coursera.org/learn/orientacao-a-objetos-com-java
 1. GUIDED DEVELOPMENT THROUGH TEST: https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes/
 1. https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado
 1. https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto
 
-
-
+## BASIC KNLOWDGE ABOUT BASH
+http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 
