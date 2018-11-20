@@ -38,6 +38,8 @@ Is a set of tools and concepts that help us to create strategies to manage proje
 1. https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto
 
 ## BASIC KNLOWDGE ABOUT BASH
-http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+1. http://www.tldp.org/LDP/Bash-Beginners-Guide/html/
+1. http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
 
+## BASIC KNOWLEDGE ABOUT DOCKER
+1. https://leanpub.com/dockerparadesenvolvedores
