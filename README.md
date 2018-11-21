@@ -1,4 +1,4 @@
-# APPLICATION LIFECYCLE MANAGEMENT (ALM), PROJECT MANAGEMENT,  AUTOMATION AND CONTINUOS INTEGRATION RESOURCES
+# APPLICATION LIFECYCLE MANAGEMENT (ALM), PROJECT MANAGEMENT,  AUTOMATION AND CONTINUOUS INTEGRATION RESOURCES
 
 This repo has every material that my guidence counselor at my internship give to me to learn about .
 ## ALM
@@ -16,6 +16,9 @@ Is a set of tools and concepts that help us to create strategies to manage proje
 ## BUILD AUTOMATION
 1. https://books.sonatype.com/mvnref-book/pdf/mvnref-pdf.pdf
 
+## BEGINNING AT CONTINUOUS INTEGRATION
+1. https://www.quora.com/What-are-the-best-resources-to-learn-about-Continuous-Integration-in-Software-Development
+1. https://www.youtube.com/user/ProgrammingKnowledge
 
 ## TIPS TO BE A GOOD PROGRAMMER 
 1. https://cleancoders.com/episode/clean-code-episode-1/show
