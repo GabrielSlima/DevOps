@@ -5,6 +5,9 @@ This repo has every material that my guidence counselor at my internship give to
 ## ABOUT WHAT IS AND HOW TO BECOME A DEVOPS ENGINEER
 1. MEDIUM POST: https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
 
+## TO SUM UP WHAT YOU NEED(ME TOO) TO KNOW
+![BASIC KNOWLEDGE TO BECOME A DEVOPS ENGINEER](https://raw.githubusercontent.com/GabrielSlima/DevOps/master/devops.jpg)
+
 ## ALM
 Is a set of tools and concepts that help us to create strategies to manage projects of Software development. It covers everything that has to do with the lifecycle of a software. Starting with a piece of paper and go over all the development process, including maintence and so on.
 
@@ -38,7 +41,7 @@ Is a set of tools and concepts that help us to create strategies to manage proje
 
 
 
-#STARTING FROM INTERMEDIATE POSITON ON PROGRAMMING
+# STARTING FROM INTERMEDIATE POSITON ON PROGRAMMING
 1. OOP WITH JAVA: https://www.coursera.org/learn/orientacao-a-objetos-com-java
 1. ADVANCED DEVELOPMENT WITH JAVA: https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado
 1. DESIGN PATTERNS: https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto
