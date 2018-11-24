@@ -1,17 +1,17 @@
 # APPLICATION LIFECYCLE MANAGEMENT (ALM), PROJECT MANAGEMENT,  AUTOMATION AND CONTINUOUS INTEGRATION RESOURCES
 
-This repo has every material that my guidence counselor at my internship give to me to learn about .
+This repo has every material that my guidence counselor at my internship give to me to learn about DevOps culture.
 
 ## ABOUT WHAT IS AND HOW TO BECOME A DEVOPS ENGINEER
 1. MEDIUM POST: https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
 
-## TO SUM UP WHAT YOU NEED(ME TOO) TO KNOW
+## TO SUM UP WHAT YOU NEED (ME TOO) TO KNOW
 ![BASIC KNOWLEDGE TO BECOME A DEVOPS ENGINEER](https://raw.githubusercontent.com/GabrielSlima/DevOps/master/devops.jpg)
 
 ## ALM
 Is a set of tools and concepts that help us to create strategies to manage projects of Software development. It covers everything that has to do with the lifecycle of a software. Starting with a piece of paper and go over all the development process, including maintence and so on.
 
-## UNDERSTANDE THE BASICS ABOUT ALM AND SO ON
+## UNDERSTAND THE BASICS ABOUT ALM AND SO ON
 1. Portuguese presentation: https://pt.slideshare.net/brjavaman/alm-open-source
 
 ## UNDERSTAND THE BASICS ABOUT VCS (VERSION CONTROL SYSTEMS)
