@@ -3,7 +3,7 @@
 This repo has every material that my guidence counselor at my internship give to me to learn about .
 
 ## ABOUT WHAT IS AND HOW TO BECOME A DEVOPS ENGINEER
-1. MEDIUM POST: https://github.com/GabrielSlima/DevOps.git
+1. MEDIUM POST: https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737
 
 ## ALM
 Is a set of tools and concepts that help us to create strategies to manage projects of Software development. It covers everything that has to do with the lifecycle of a software. Starting with a piece of paper and go over all the development process, including maintence and so on.
