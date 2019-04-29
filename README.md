@@ -21,16 +21,14 @@ Is a set of tools and concepts that help us to create strategies to manage proje
 1. GIT INTERATIVE WEBSITE: https://learngitbranching.js.org/
 
 ## BUILD AUTOMATION
-1. MAVEN BOOK: https://books.sonatype.com/mvnref-book/pdf/mvnref-pdf.pdf
+1. Maven the complete reference book!
 
 ## BEGINNING AT CONTINUOUS INTEGRATION
 1. https://www.quora.com/What-are-the-best-resources-to-learn-about-Continuous-Integration-in-Software-Development
 1. https://www.youtube.com/user/ProgrammingKnowledge
 
 ## TIPS TO BE A GOOD PROGRAMMER 
-1. https://cleancoders.com/episode/clean-code-episode-1/show
-1. https://www.investigatii.md/uploads/resurse/Clean_Code.pdf
-
+1. Read clean code!
 
 ## SOME PEOPLE TO GET INSPIRATION 
 1. https://twitter.com/tottinge
